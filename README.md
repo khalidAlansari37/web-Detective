@@ -1,4 +1,4 @@
-Web Detective - URL Checker
+# Web Detective - URL Checker
 Project Overview
 Web Detective is a web application designed to help users analyze the security status of URLs using the VirusTotal API. This tool provides detailed reports on potential threats, domain information, and scan results from various antivirus engines. It aims to enhance users' ability to assess the safety of websites they encounter, making it a valuable resource for both personal and professional use.
 
@@ -27,10 +27,6 @@ Steps to Install
 Clone the Repository:
 bash
 
-Copy
-git clone https://github.com/yourusername/web-detective.git
-Navigate to the Project Directory:
-bash
 
 Copy
 cd web-detective
@@ -65,7 +61,5 @@ A link to the full report on VirusTotal.
 Contribution
 Contributions are welcome! If you have suggestions for improving this project or want to report issues, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to adjust any sections, particularly the installation instructions and API key setup, based on your actual project structure and preferred configurations. This format should provide a comprehensive overview and guide for users and contributors alike!
