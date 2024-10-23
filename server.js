@@ -27,7 +27,7 @@ app.post('/check-url', async (req, res) => {
     try {
         const response = await axios.get(`https://www.virustotal.com/vtapi/v2/url/report`, {
             params: {
-                apikey: 'efc2578d9b5c1f72e3935e23e466924632598d8f9dfca4069d3ed1c88f943934', // Replace with your actual API key
+                apikey: 'kdsjfdklsjfklsdjkfljklfjk395889475843758438953456493', // Replace with your actual API key
                 resource: url,
             },
         });
